@@ -1,0 +1,6 @@
+DEBUG
+.venv/
+.idea/
+.vscode/
+cao.*
+*.bat
